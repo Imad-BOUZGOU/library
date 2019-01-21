@@ -1,0 +1,2 @@
+1) Importer la base de données à partir de library\db
+2) La configuration  de base de données se trouve dans library\application\models\mysqlbdd.php : 9
